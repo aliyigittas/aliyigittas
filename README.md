@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Yiğit Taş</h1>
 <h3 align="center">Computer Engineering student at Kadir Has University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliyigittas" alt="aliyigittas" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/aliyigit_tas44" target="blank"><img src="https://img.shields.io/twitter/follow/aliyigit_tas44?logo=twitter&style=for-the-badge" alt="aliyigit_tas44" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C.**
-
-- 📫 You can reach me in Twitter **@aliyigit_tas44**
+- 🌱 I’m currently learning **Python and C.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
