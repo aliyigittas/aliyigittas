@@ -57,7 +57,7 @@ I am a computer engineering student at Kadir Has University. Thank you for visit
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=aliyigittas&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=aliyigittas&show_icons=true&count_private=true&ffffff00&hide_border=true" align="left" />  
 
 <br/>  
 
