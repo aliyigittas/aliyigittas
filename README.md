@@ -27,7 +27,7 @@ I am a computer engineering student at Kadir Has University. Thank you for visit
 ##  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Python, C.  
+- 🌱 I’m currently learning Python, C, Swift.  
   
 
 - ❓ Feel free to ask me your questions  
