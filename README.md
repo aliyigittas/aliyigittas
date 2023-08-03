@@ -21,28 +21,10 @@
 I am a computer engineering student at Kadir Has University. Thank you for visiting my profile!  
   
 
-<br/>  
-
-
-##  
-<table><tr><td valign="top" width="50%">
-
 - 🌱 I’m currently learning C++, Flutter.  
   
 
-- ❓ Feel free to ask me your questions  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
+- ❓ Feel free to ask me your questions 
 
 
 ## Languages and Tools  
