@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Ali Yiğit Taş  
   
-![](https://komarev.com/ghpvc/?username=aliyigittas&base=256)
+![](https://komarev.com/ghpvc/?username=aliyigittas)
 
 <a href="https://github.com/aliyigittas" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=GitHub style="margin-bottom: 5px;" />
